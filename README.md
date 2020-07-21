@@ -1,4 +1,4 @@
-### Hi, I am Sachin 👋
+### Hi, I am Sachin
 
 I'm a software engineer with 20 years of experience who is passionate about using technology for elevate people. Some technologies I enjoy working with include  C#, Golang, Jamstack (JavaScript, APIs + Markup) and relational databases. 
 
